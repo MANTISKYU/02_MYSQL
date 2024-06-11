@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDialectMappings">
+    <file url="file://$PROJECT_DIR$/04_DISTINCT_PRACTICE.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/05_LIMIT_PRACTICE.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/06_JOIN_PRACTICE.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/07_GROUPING_PRACTICE.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/08.SUBQUERIES_PRACTICE.sql" dialect="MySQL" />
+  </component>
+</project>
